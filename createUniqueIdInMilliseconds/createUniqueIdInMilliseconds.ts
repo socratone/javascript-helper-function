@@ -9,3 +9,5 @@ const createUniqueIdInMilliseconds = () => {
   const milliseconds = d.getMilliseconds();
   return `${year}-${month}-${date}/${hours}:${minutes}:${seconds}.${milliseconds}`;
 };
+
+export default createUniqueIdInMilliseconds;

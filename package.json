@@ -1,15 +1,18 @@
 {
-  "name": "javascript-helper-function",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "name": "socratone-js-helpers",
+  "version": "0.0.1",
+  "description": "socratone's javascript helper functions",
+  "main": "main.ts",
+  "keywords": [
+    "helpers",
+    "functions"
+  ],
+  "author": {
+    "name": "Socratone"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
+  "homepage": "https://github.com/socratone/socratone-js-helpers",
+  "license": "MIT",
+  "devDependencies": {
     "ts-node": "^10.7.0"
   }
 }

@@ -1,4 +1,4 @@
-# Javascript Helper Function
+# Socratone JS Helpers
 
 ## createUniqueIdInMilliseconds
 
